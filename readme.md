@@ -6,6 +6,8 @@
 
 ```php
 
+require_once __DIR__."/vendor/autoload.php";
+
 use TypesToon\Toon;
 
 $text=Toon::str("typetoon lib");
