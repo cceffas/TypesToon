@@ -1,0 +1,18 @@
+{
+    "name": "devcefas/types-toon",
+    "autoload": {
+        "psr-4": {
+            "TypesToon\\": "src/"
+        }
+    },
+    "scripts": {
+        "test":"php -S localhost:8000 -t test"
+    },
+    "authors": [
+        {
+            "name": "devcefas",
+            "email": "devcefas@gmail.com"
+        }
+    ],
+    "require": {}
+}
