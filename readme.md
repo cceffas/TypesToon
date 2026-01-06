@@ -2,7 +2,13 @@
 
 <p>a simple and elegant lib for manipulate types of data in php, with fluent API</p>
 
-## code
+## types supported
+
+-string
+-array
+-number
+
+### code
 
 ```php
 
@@ -16,7 +22,7 @@ echo $text->upper();
 
 ```
 
-## output
+### output
 
 ```bash
 
