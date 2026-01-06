@@ -21,7 +21,7 @@ echo $text->upper();
 ```bash
 
 
-TYPETOON
+TYPETOON LIB
 
 
 
