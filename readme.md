@@ -4,9 +4,9 @@
 
 ## types supported
 
--string
--array
--number
+1. string
+2. array
+3. number
 
 ### code
 
