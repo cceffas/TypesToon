@@ -6,7 +6,7 @@ class Str
 {
     private string $value;
 
-    public function __construct(string $value)
+    public function __construct(string $value="")
     {
         $this->value = $value;
     }
@@ -74,4 +74,17 @@ class Str
         return new self(ucfirst($this->value));
     }
 
+    public function endsWith(string $suffix)
+    {
+        return substr($this->value, -strlen($suffix)) === $suffix;
+    }
+    public function startsWith(string $prefix)
+    {
+        return substr($this->value, 0, strlen($prefix)) === $prefix;
+    }
+
+    public function repeat(int $times)
+    {
+        return new self(str_repeat($this->value, $times));
+    }
 }

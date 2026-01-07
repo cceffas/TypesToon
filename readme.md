@@ -8,15 +8,19 @@
 2. array
 3. number
 
+## examples
+
+
+
 ### code
 
 ```php
 
 require_once __DIR__."/vendor/autoload.php";
 
-use TypesToon\Toon;
+use TypesToon\Toon as Type;
 
-$text=Toon::str("typetoon lib");
+$text=Type::str("typetoon lib");
 
 echo $text->upper();
 
