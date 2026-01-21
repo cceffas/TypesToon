@@ -1,24 +1,24 @@
 <p align="center"><img src="./typeToonLogomark.svg" alt="logomark"></p>
 
----
-
-![Packagist](https://img.shields.io/packagist/v/types-toon/types-toon)
-![Downloads](https://img.shields.io/packagist/dt/types-toon/types-toon)
-![License](https://img.shields.io/packagist/l/types-toon/types-toon)
+<p align="center">
+<img alt="Version" src="https://img.shields.io/packagist/v/types-toon/types-toon">
+<img alt="Downloads" src="https://img.shields.io/packagist/dt/types-toon/types-toon">
+<img alt="License" src="https://img.shields.io/packagist/l/types-toon/types-toon">
+</p>
 
 ## About Types-Toon
 
 <p>TypesToon is a PHP library for manipulating primitive types using a fluent, simple, and chainable API, inspired by modern languages.</p>
 
-## Something like:
+## Something like
 
--less verbosity
+- less verbosity
 
--more readability
+- more readability
 
--chained methods
+- chained methods
 
--focus on productivity
+- focus on productivity
 
 ## Types Supported
 
@@ -26,9 +26,23 @@
 2. array/list
 3. number
 
+
+
+## Get started / install
+
+- require composer
+- require php>=8.x
+
+
+```bash
+
+composer require types-toon/types-toon
+
+```
+
 ## Code Examples
 
-### array
+### Array
 
 ```php
 
@@ -84,7 +98,7 @@ Name: Alice Johnson, Email: alice@example.com, Age: 28
 
 ---
 
-### string
+### String
 
 ```php
 
