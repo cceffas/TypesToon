@@ -3,7 +3,7 @@
     "description": "a simple and elegant lib for manipulate types of data in php, with fluent API.",
     "type": "library",
     "license": "MIT",
-    "keywords": ["type","string","array"],
+    "keywords": ["types","string","array","int","float","bool","object","data","manipulate","php"],
     "autoload": {
         "psr-4": {
             "TypesToon\\": "src/"
