@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="467.61426"
+   height="114.42057"
+   viewBox="0 0 467.61426 114.42057"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (1:1.4.3+202512261035+0d15f75042)"
+   sodipodi:docname="typeToonLogomark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="360.18252"
+     inkscape:cy="1.1048543"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.147692,-198.78971)">
+    <g
+       id="g4"
+       transform="matrix(1.5257889,0,0,1.5257889,-114.85759,-31.507185)">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:64px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Ultra-Bold Italic';writing-mode:lr-tb;direction:ltr;fill:#3485fd;fill-opacity:1;stroke-width:3.7"
+         x="86.71875"
+         y="197.65625"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="86.71875"
+           y="197.65625">Type</tspan></text>
+      <g
+         id="g3"
+         transform="translate(-49.21875,-2.34375)">
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:64px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Ultra-Bold Italic';writing-mode:lr-tb;direction:ltr;fill:#ffcb2f;fill-opacity:1;stroke-width:3.7"
+           x="296.875"
+           y="199.21875"
+           id="text2"><tspan
+             sodipodi:role="line"
+             id="tspan2"
+             x="296.875"
+             y="199.21875">toon</tspan></text>
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ffcb2f;stroke-width:7.7;stroke-dasharray:none;stroke-opacity:1"
+           d="m 343.53443,211.0778 c 0,0 30.53249,31.73176 54.97739,-2.65683"
+           id="path3"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+</svg>
