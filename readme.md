@@ -1,10 +1,14 @@
 ![logomark](./typeToonLogomark.svg)
 
-<p>
+----------
+
 ![Packagist](https://img.shields.io/packagist/v/types-toon/types-toon)
+
 ![Downloads](https://img.shields.io/packagist/dt/types-toon/types-toon)
+
 ![License](https://img.shields.io/packagist/l/types-toon/types-toon)
-</p>
+
+
 
 # TypesToon
 
