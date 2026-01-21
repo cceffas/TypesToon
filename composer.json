@@ -1,6 +1,6 @@
 {
     "name": "types-toon/types-toon",
-    "description": "A library for type checking and validation in PHP.",
+    "description": "a simple and elegant lib for manipulate types of data in php, with fluent API.",
     "type": "library",
     "license": "MIT",
     "keywords": ["type","string","array"],
