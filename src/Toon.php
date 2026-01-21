@@ -12,7 +12,7 @@ class Toon
     {
         return new Str($value);
     }
-    public static function Num(?int $value = 0)
+    public static function Num(?float $value = 0)
     {
         return new Num($value);
     }

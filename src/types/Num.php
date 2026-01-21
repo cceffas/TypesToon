@@ -106,5 +106,9 @@ class Num
     {
         return $this->value == $num;
     }
+    public function format(int $decimals = 0, string $decimalPoint = '.', string $thousandsSeparator = ',')
+    {
+        return number_format($this->value, $decimals, $decimalPoint, $thousandsSeparator);
+    }
 
 }
