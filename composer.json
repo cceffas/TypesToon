@@ -1,5 +1,9 @@
 {
-    "name": "devcefas/types-toon",
+    "name": "types-toon/types-toon",
+    "description": "A library for type checking and validation in PHP.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["type","string","array"],
     "autoload": {
         "psr-4": {
             "TypesToon\\": "src/"
@@ -10,9 +14,12 @@
     },
     "authors": [
         {
-            "name": "devcefas",
-            "email": "devcefas@gmail.com"
+            "name": "pedro moisés julieta",
+            "email": "pedromoisesjulieta8@gmail.com",
+            "role": "developer"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    }
 }
